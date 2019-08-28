@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FindGitUser</string>
+    <string name="title_search">Search</string>
+    <string name="title_added">Added users</string>
+    <string name="search_hint">Search</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="error_dialog_message">Error</string>
+    <string name="generic_error">Some error occurs during request</string>
+    <string name="placeholder_user_not_found">User not found :(</string>
+    <string name="repos_label">Public repos: %1$d</string>
+    <string name="gists_label">Public gists: %1$d</string>
+    <string name="delete_all">Delete all</string>
+    <string name="popup_title">Are you sure you want to delete all of data?</string>
+    <string name="popup_positive">Yes</string>
+    <string name="popup_negative">No</string>
+</resources>
