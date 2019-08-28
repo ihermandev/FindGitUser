@@ -22,7 +22,6 @@ import com.herman.illia.findgituser.utils.InjectorUtils
 import com.herman.illia.findgituser.viewmodel.UserViewModel
 import kotlinx.android.synthetic.main.feature_search.*
 import kotlinx.android.synthetic.main.fragment_search.*
-import javax.security.auth.login.LoginException
 
 class SearchFragment : BaseFragment(), RequestUserListener {
 

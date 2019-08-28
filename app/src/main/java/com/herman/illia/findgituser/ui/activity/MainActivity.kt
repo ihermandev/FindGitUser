@@ -1,11 +1,10 @@
 package com.herman.illia.findgituser.ui.activity
 
 import android.os.Bundle
-import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
-import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.herman.illia.findgituser.R
 
 class MainActivity : AppCompatActivity() {

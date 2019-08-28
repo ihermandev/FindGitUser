@@ -8,7 +8,6 @@ import com.herman.illia.findgituser.R
 import com.herman.illia.findgituser.adapter.listener.UserAddListener
 import com.herman.illia.findgituser.model.UserModel
 import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.user_item.view.*
 
 /**
  * Created by illia on 8/27/2019.
